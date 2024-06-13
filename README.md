@@ -21,23 +21,29 @@ The primary goal of Programming Siksha is to create an inclusive and comprehensi
 
 ## Screenshots
 
-![1](https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/8e2f00c3-c37f-4134-8b4e-7c4c439bf27a)
+<img src="https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/8e2f00c3-c37f-4134-8b4e-7c4c439bf27a" width="400" height="780"> 
 
 *Caption: Home screen showcasing the variety of courses available on Programming Siksha.*
 
-![2](https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/a86b4fd7-553e-4489-aab8-3747562eb0ee)
+<img src="https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/a86b4fd7-553e-4489-aab8-3747562eb0ee" width="400" height="780"> 
+
 
 *Caption: Data Structures and Algorithms course page with detailed explanations and interactive exercises.*
 
 *DSA Content Screen*
-![4](https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/2dcb2678-4a98-43b2-8ea0-04f1facca02f)
+
+<img src="https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/2dcb2678-4a98-43b2-8ea0-04f1facca02f" width="400" height="780"> 
+
 
 *Settings*
 
-![3](https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/e12f11f2-1d3e-4278-93d0-a23489d93560)
+
+<img src="https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/e12f11f2-1d3e-4278-93d0-a23489d93560" width="400" height="780"> 
 
 *About Us*
-![5](https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/fe48731e-a3cb-4261-902e-a284e2698c50)
+
+<img src="https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/fe48731e-a3cb-4261-902e-a284e2698c50" width="400" height="780"> 
+
 
 
 ## Getting Started
@@ -94,6 +100,8 @@ A heartfelt thank you to all our users and contributors who continually support 
 Join us on our mission to make programming education in India accessible, engaging, and truly "Made in Bharat"!
 
 
-![apk](https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/ee630fff-8c94-42cc-bebc-473c20a4c6a9)
+
+<img src="https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/ee630fff-8c94-42cc-bebc-473c20a4c6a9" width="100" height="100"> 
+
 https://drive.google.com/file/d/1uPwkffbXGRdMP3NyBjzMfkBC4gtam8yU/view?usp=drive_link
 
